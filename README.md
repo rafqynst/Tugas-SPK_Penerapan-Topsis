@@ -107,7 +107,7 @@ Tahapan yang diimplementasikan:
 
 ### Login
 
-![Dashboard](screenshots/login.png)
+![Login](screenshots/login.png)
 
 ### Dashboard
 
